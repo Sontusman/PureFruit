@@ -2,5 +2,5 @@
  Current Avocado freshness determination project based on hyperspectral images processed with CNN AlexNet
 
 
-keras1.ipynb - AlexNet implementation
+keras1.ipynb - AlexNet implementation\n
 НЕСЕМИНАР PureFruit - презентация проекта
